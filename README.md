@@ -1,4 +1,4 @@
-# IYF week 01-Semantinc HTML+Contact form.
-A website project learning HTML ,CSS,and JavaScript.practiced semantic tags, header,nav,main, article, screen reader testing and footers 
-##Author
-Stephen mogen- IYF Student 
+# IYF week 01-Semantic HTML+Contact form
+practicing how to use semantic tags, header,nav,main,footer and screen reader.
+## Author 
+Stephen.mogeni
